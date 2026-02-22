@@ -10,7 +10,7 @@ Through a built-in editor, users can create custom commands, automations, and in
 
 ---
 
-## 🚀 Features (Alpha)
+## 🚀 Features (Beta)
 
 - In-server code editor  
 - Live scripting of custom commands  
